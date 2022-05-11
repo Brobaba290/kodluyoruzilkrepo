@@ -1,6 +1,6 @@
 # **KodluyoruzİlkRepo**
 # *Kodluyoruz - BackEnd 101 Eğitimi*
-> Kaan Demirtaş
+> *Kaan Demirtaş*
 >> [LinkedIn](https://www.linkedin.com/in/kaan-demirta%C5%9F-6b1891237/) - [Youtube](https://www.youtube.com/channel/UCGB5JPd7EAsB1ldR-WZmPgQ) - [Github](https://github.com/Brobaba290/)
 ---
 
