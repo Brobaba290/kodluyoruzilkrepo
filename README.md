@@ -5,9 +5,11 @@
 ---
 
 ## **Eğitimin Genel Hedefi:**
+```
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
 * JavaScript temellerini aktarıp herhangi bir Back-End kütüphanesi kullanmadan başlangıç düzeyindeki projeleri hayata geçirebilmelerini sağlamak
+```
 
 ***
 
